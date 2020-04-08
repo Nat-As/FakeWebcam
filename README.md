@@ -2,7 +2,7 @@
 A simple hack designed for online proctoring systems such as proctorio.
 
 # Requirements
-+ Must have v4l2loopback installed
++ Must have v4l2loopback [installed](https://github.com/Nat-As/v4l2loopback)
 + Tested on debian
 
 # Usage
