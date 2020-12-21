@@ -8,9 +8,9 @@ A simple hack designed for online proctoring systems such as proctorio.
 # Usage
 FakeWebcam [OPTIONS] [LOCATION] [DEVICE]
 
-options:
-    patch       Patches the kernel with modprobe (create /dev/video0)
-    pipe        Start streaming an mp4 to the device
+Options:
++    ```patch```       Patches the kernel with modprobe (create /dev/video0)
++    ```pipe```        Start streaming an mp4 to the device
 
 examples:
     FakeWebcam patch                            Set up Video1 device
